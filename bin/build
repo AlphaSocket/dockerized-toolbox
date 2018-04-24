@@ -1,0 +1,21 @@
+#!/bin/sh
+
+#
+# Local test script to build and test docker image
+#
+
+# exit if a command fails
+set -e
+
+DOCKER=$(which docker)
+
+if [ "$DOCKER" = '' ]; then
+    echo 'Docker is required\n'
+    exit 1
+fi
+
+echo "#\n# Building image\n#\n"
+docker build --no-cache -t 03192859189254/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). --build-arg BUILD_COMMIT=$(git rev-parse HEAD) --build-arg BUILD_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")  .
+
+exit $?
