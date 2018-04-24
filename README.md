@@ -3,23 +3,13 @@
 All required cli in one container
 
 
-| [![Build Status](https://semaphoreci.com/api/v1/alphasocket/dockerized-toolbox/branches/fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)./badge.svg)](https://semaphoreci.com/alphasocket/dockerized-toolbox) | Size / Layers | Version |
+| [![Build Status](https://semaphoreci.com/api/v1/alphasocket/dockerized-toolbox/branches/latest/badge.svg)](https://semaphoreci.com/alphasocket/dockerized-toolbox) | Size / Layers | Version |
 | ----- | ----- | ----- |
-| Dev image | [![](https://images.microbadger.com/badges/image/03192859189254/dockerized-toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)..svg)](https://microbadger.com/images/03192859189254/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). ) | [![](https://images.microbadger.com/badges/version/03192859189254/dockerized-toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)..svg)](https://microbadger.com/images/03192859189254/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).) |
-| Prd image | [![](https://images.microbadger.com/badges/image/alphasocket/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)..svg)](https://microbadger.com/images/alphasocket/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). ) | [![](https://images.microbadger.com/badges/version/alphasocket/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set)..svg)](https://microbadger.com/images/alphasocket/toolbox:fatal: Not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).) |
+| Dev image | [![](https://images.microbadger.com/badges/image/03192859189254/dockerized-toolbox:latest.svg)](https://microbadger.com/images/03192859189254/toolbox:latest ) | [![](https://images.microbadger.com/badges/version/03192859189254/dockerized-toolbox:latest.svg)](https://microbadger.com/images/03192859189254/toolbox:latest) |
+| Prd image | [![](https://images.microbadger.com/badges/image/alphasocket/toolbox:latest.svg)](https://microbadger.com/images/alphasocket/toolbox:latest ) | [![](https://images.microbadger.com/badges/version/alphasocket/toolbox:latest.svg)](https://microbadger.com/images/alphasocket/toolbox:latest) |
 
 ## Branches & Versions
-- fatal: Not a git repository (or any parent up to mount point /home)
-- Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+- latest
 
 
 ## Packages installed
